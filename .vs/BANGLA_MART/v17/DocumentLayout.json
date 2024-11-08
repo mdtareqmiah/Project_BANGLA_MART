@@ -3,30 +3,50 @@
   "WorkspaceRootPath": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|d:\\class room\\5th semester\\cse-323 \u0026 324 web engineering\\project_bangla_mart\\bangla_mart\\bangla_mart\\user\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\sliderusercontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\shopdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\shopdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|d:\\class room\\5th semester\\cse-323 \u0026 324 web engineering\\project_bangla_mart\\bangla_mart\\bangla_mart\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\bangla_mart\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39FF4E2-52F1-4FFF-9562-1DFD9E4F2D4E}|BANGLA_MART\\BANGLA_MART.csproj|solutionrelative:bangla_mart\\user\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,44 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShopDetail.aspx",
-              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\ShopDetail.aspx",
-              "RelativeDocumentMoniker": "BANGLA_MART\\User\\ShopDetail.aspx",
-              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\ShopDetail.aspx",
-              "RelativeToolTip": "BANGLA_MART\\User\\ShopDetail.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-02T00:18:28.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Shop.aspx",
-              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Shop.aspx",
-              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Shop.aspx",
-              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Shop.aspx",
-              "RelativeToolTip": "BANGLA_MART\\User\\Shop.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-02T00:15:51.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Default.aspx",
-              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Default.aspx",
-              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Default.aspx",
-              "RelativeToolTip": "BANGLA_MART\\User\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-01T18:15:40.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.Master",
               "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\User.Master",
               "RelativeDocumentMoniker": "BANGLA_MART\\User\\User.Master",
@@ -79,8 +62,111 @@
               "RelativeToolTip": "BANGLA_MART\\User\\User.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-11-01T18:17:43.426Z",
+              "WhenOpened": "2024-11-07T19:01:28.059Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Default.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Default.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T19:01:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Shop.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Shop.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Shop.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\Shop.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T19:01:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShopDetail.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\ShopDetail.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\ShopDetail.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\ShopDetail.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\ShopDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T21:03:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Cart.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Cart.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Cart.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T21:24:25.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckOut.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\CheckOut.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\CheckOut.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\CheckOut.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\CheckOut.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T21:25:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\Contact.aspx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\Contact.aspx",
+              "RelativeToolTip": "BANGLA_MART\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-07T21:23:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SliderUserControl.ascx",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\SliderUserControl.ascx",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\SliderUserControl.ascx",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\SliderUserControl.ascx",
+              "RelativeToolTip": "BANGLA_MART\\User\\SliderUserControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-07T21:08:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\User.Master.cs",
+              "RelativeDocumentMoniker": "BANGLA_MART\\User\\User.Master.cs",
+              "ToolTip": "D:\\CLASS ROOM\\5th Semester\\CSE-323 \u0026 324 Web Engineering\\Project_BANGLA_MART\\BANGLA_MART\\BANGLA_MART\\User\\User.Master.cs",
+              "RelativeToolTip": "BANGLA_MART\\User\\User.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:10:45.363Z"
             }
           ]
         }

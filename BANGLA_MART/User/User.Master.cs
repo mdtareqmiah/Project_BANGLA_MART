@@ -15,12 +15,10 @@ namespace BANGLA_MART.User
         {
             if (Request.Url.AbsoluteUri.ToString().Contains("Default.aspx"))
             {
-                //load the control
+                //load the user control 
                 Control sliderUserControl = (Control)Page.LoadControl("SliderUserControl.ascx");
-                pnlSliderUC.Controls.Add(sliderUserControl);
-
+                pnlSlierUC.Controls.Add(sliderUserControl);
             }
-           
         }
     }
 }
